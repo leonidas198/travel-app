@@ -1,0 +1,110 @@
+{
+  "welcome": "Bienvenido a tu guía de viajes",
+  "home": "Inicio",
+  "home_intro": "Explorá destinos únicos alrededor del mundo con nuestra guía de viajes en línea. Descubrí lugares fascinantes, obtené recomendaciones actualizadas y planificá tu próxima aventura de forma fácil y rápida. Nuestro sitio está disponible en múltiples idiomas y se adapta a viajeros de todo el mundo. ¡Empezá a explorar hoy mismo!",
+  "home_hero_title": "Descubrí el mundo a tu manera",
+  "home_hero_subtitle": "Explorá destinos turísticos, leé guías y planificá tu próxima aventura.",
+  "home_hero_cta": "Explorar destinos",
+  "home_featured_title": "Destinos destacados",
+  "home_see_more": "Ver más",
+  "destinations": "Destinos",
+  
+  
+  "changeLanguage": "Cambiar idioma",
+  "notFound": "Página no encontrada",
+  "footerText": "Todos los derechos reservados 2025",
+  "paris": "París, Francia",
+  "paris_desc": "París, la ciudad del amor y la luz, cautiva con su elegancia, historia y cultura. Desde la Torre Eiffel hasta el Louvre, ofrece experiencias inolvidables entre calles encantadoras, arte y gastronomía de clase mundial.",
+  "new_york": "Nueva York, EE. UU.",
+  "new_york_desc": "Nueva York es una ciudad vibrante y cosmopolita, conocida por su icónica Estatua de la Libertad, Times Square, Central Park y su energía inigualable. Es un destino turístico imperdible que combina arte, cultura, historia y modernidad en cada rincón.",
+  "tokyo": "Tokio, Japón",
+  "tokyo_desc": "Tokio, la fascinante capital de Japón, combina tecnología de vanguardia con tradiciones milenarias. Rascacielos futuristas, templos antiguos y una vibrante cultura urbana hacen de esta ciudad un destino único en el mundo.",
+  "el_bolson": "El Bolson, Argentina",
+  "el_bolson_desc": "El Bolsón, en la Patagonia argentina, es un paraíso natural rodeado de montañas, bosques y ríos cristalinos. Con su espíritu bohemio, ferias artesanales y rutas de senderismo, es perfecto para quienes buscan tranquilidad y conexión con la naturaleza.",
+  "bariloche": "Bariloche, Argentina",
+  "bariloche_desc": "Bariloche es una ciudad ubicada en la región de los lagos de la Patagonia argentina, famosa por sus impresionantes paisajes de montañas, lagos cristalinos y bosques. Es un destino popular tanto en invierno como en verano, ofreciendo actividades como esquí, senderismo, paseos en barco y una exquisita gastronomía con chocolates artesanales.",
+  "paises_bajos": "Paises Bajos",
+  "paises_bajos_desc": "Los Países Bajos son un país europeo conocido por sus paisajes planos, canales pintorescos, molinos de viento, campos de tulipanes y ciudades modernas como Ámsterdam y Róterdam. Destacan por su cultura ciclista, innovación y arquitectura histórica.",
+  "alberobello": "Alberobello, Italia",
+  "alberobello_desc": "Alberobello es una pintoresca ciudad del sur de Italia, famosa por sus trulli, unas construcciones cónicas de piedra blanca únicas en el mundo. Es Patrimonio de la Humanidad por la UNESCO y un destino encantador para los amantes de la historia y la arquitectura tradicional.",
+  "machu_picchu": "Machu Picchu, Perú",
+  "machu_picchu_desc": "Machu Picchu es una antigua ciudad inca situada en lo alto de los Andes peruanos. Es una de las maravillas del mundo moderno, famosa por su impresionante arquitectura de piedra y su entorno natural único.",
+  "noruega": "Noruega",
+  "noruega_desc": "Noruega es un país escandinavo conocido por sus impresionantes fiordos, montañas nevadas y auroras boreales. Ofrece una combinación única de naturaleza salvaje, modernidad y calidad de vida.",
+  "tips_greet": "Consejos a viajeros",
+  "tips_greeting": "Consejos prácticos para tu próximo viaje",
+  "tips": {
+  "documents": {
+    "title": "Lleva tus documentos",
+    "description": "No olvides pasaporte, visa y copias de seguridad digitales."
+  },
+  "health": {
+    "title": "Seguro de salud",
+    "description": "Contratá un seguro médico antes de viajar, especialmente al extranjero."
+  },
+  "money": {
+    "title": "Dinero y tarjetas",
+    "description": "Avisá a tu banco sobre el viaje y llevá una mezcla de efectivo y tarjetas."
+  },
+  "packing": {
+    "title": "Empacá liviano",
+    "description": "Llevá solo lo necesario y recordá adaptarte al clima del destino."
+  }
+},
+
+"contact_greeting": "Contáctanos",
+"contact": {
+  "title": "Contacto",
+  "name": "Nombre",
+  "email": "Correo electrónico",
+  "message": "Mensaje",
+  "send": "Enviar",
+  "success": "¡Mensaje enviado con éxito!",
+  "error": "Hubo un error al enviar el mensaje.",
+  "subject": {
+    "inquiry": "Consulta de viaje",
+    "collab": "Colaboración comercial",
+    "feedback": "Sugerencias o comentarios",
+    "other": "Otro motivo"
+  }
+}, 
+"seo": {
+  "homeTitle": "Viajes únicos alrededor del mundo - Travel App",
+  "homeDescription": "Descubre destinos turísticos increíbles, consejos de viaje y experiencias inolvidables.",
+  "destinationsTitle": "Explora destinos turísticos - Travel App",
+  "destinationsDescription": "Encuentra los mejores destinos para tus viajes, con descripciones, imágenes y mapas.",
+  "contactTitle": "Contacto - Travel App",
+  "contactDescription": "¿Tenés dudas o sugerencias? Contactanos para ayudarte en tu próxima aventura.",
+  "tipsTitle": "Consejos de viaje - Travel App",
+  "tipsDescription": "Consejos esenciales para viajar mejor, ahorrar dinero y disfrutar de cada aventura.",
+  "blogTitle": "Blog de viajes - Travel App",
+  "blogDescription": "Explorá nuestros artículos de viaje, guías y consejos para tus próximas aventuras."
+},
+
+"blog": {
+  "menu": "Blog",
+  "title": "Blog de viajes",
+  "articles": {
+    "norway": {
+      "title": "Guía para viajar a Noruega",
+      "summary": "Descubrí lo mejor de Noruega: fiordos, montañas y auroras boreales."
+      
+    },
+    "machu": {
+      "title": "Consejos para visitar Machu Picchu",
+      "summary": "Todo lo que necesitás saber antes de viajar a este sitio icónico del Perú."
+      
+    }
+  }
+},
+"machu-picchu-tips": "Machu Picchu es una antigua ciudad inca situada en lo alto de los Andes peruanos. Es una de las maravillas del mundo moderno, famosa por su impresionante arquitectura de piedra y su entorno natural único.",
+"norway-travel-guide": "Noruega es un país escandinavo conocido por sus impresionantes fiordos, montañas nevadas y auroras boreales. Ofrece una combinación única de naturaleza salvaje, modernidad y calidad de vida. Explorá Oslo, navegá por los fiordos de Geiranger y experimentá la magia del sol de medianoche.",
+"footer": {
+    "copyright": "Todos los derechos reservados. Codeburst Studio.",
+    "publicity": "¿Buscás una web que se vea bien y se posicione en Google? Contactanos en: ",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos y Condiciones"
+  }
+
+
+}

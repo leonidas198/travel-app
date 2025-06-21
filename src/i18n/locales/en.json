@@ -1,0 +1,111 @@
+{
+  "welcome": "Welcome to your travel guide",
+  
+  "home": "Home",
+  "home_intro": "Discover unique destinations around the world with our online travel guide. Explore fascinating places, get updated recommendations, and plan your next adventure easily and quickly. Our website is available in multiple languages and tailored for travelers worldwide. Start exploring today!",
+  "home_hero_title": "Discover the world your way",
+  "home_hero_subtitle": "Explore travel destinations, read guides, and plan your next adventure.",
+  "home_hero_cta": "Explore destinations",
+  "home_featured_title": "Featured destinations",
+  "home_see_more": "See more",
+  "destinations": "Destinations",
+  
+  "changeLanguage": "Change language",
+  "notFound": "Page not found",
+  "footerText": "All rights reserved 2025",
+  "paris": "Paris, France",
+  "paris_desc": "Paris, the city of love and lights, enchants with its elegance, history, and culture. From the Eiffel Tower to the Louvre, it offers unforgettable experiences through charming streets, world-class art, and cuisine.",
+  "new_york": "New York, USA",
+  "new_york_desc": "New York City is a vibrant and cosmopolitan destination, famous for the iconic Statue of Liberty, Times Square, Central Park, and its unmatched energy. A must-visit city that blends art, culture, history, and modern life in every corner.",
+  "tokyo": "Tokyo, Japan",
+  "tokyo_desc": "Tokyo, Japan’s captivating capital, blends cutting-edge technology with ancient traditions. Futuristic skyscrapers, historic temples, and a vibrant urban culture make it a truly one-of-a-kind destination.",
+  "el_bolson": "El Bolson, Argentina",
+  "el_bolson_desc": "El Bolson, located in Argentine Patagonia, is a natural paradise surrounded by mountains, forests, and crystal-clear rivers. With its bohemian spirit, artisan fairs, and hiking trails, it’s perfect for those seeking tranquility and a connection with nature.",
+  "bariloche": "Bariloche, Argentina",
+  "bariloche_desc": "Bariloche is a city located in the lake region of Argentine Patagonia, famous for its breathtaking mountain scenery, crystal-clear lakes, and lush forests. It’s a popular destination year-round, offering activities such as skiing, hiking, boat tours, and a delicious culinary scene featuring artisanal chocolates.",
+  "paises_bajos": "Paises Bajos",
+  "paises_bajos_desc": "The Netherlands is a European country known for its flat landscapes, scenic canals, windmills, tulip fields, and modern cities like Amsterdam and Rotterdam. It stands out for its cycling culture, innovation, and historic architecture.",
+  "alberobello": "Alberobello, Italia",
+  "alberobello_desc": "Alberobello is a picturesque town in southern Italy, famous for its trulli—unique white stone houses with conical roofs. It is a UNESCO World Heritage Site and a charming destination for history and traditional architecture lovers.",
+  "machu_picchu": "Machu Picchu, Perú",
+  "machu_picchu_desc": "Machu Picchu is an ancient Incan city located high in the Peruvian Andes. It is one of the modern wonders of the world, known for its stunning stone architecture and breathtaking natural surroundings.",
+  "noruega": "Norway",
+  "noruega_desc": "Norway is a Scandinavian country known for its stunning fjords, snow-covered mountains, and northern lights. It offers a unique combination of wild nature, modernity, and high quality of life.",
+  "tips_greet": "Travel tips",
+  "tips_greeting": "Practical tips for your next trip",
+  "tips": {
+  "documents": {
+    "title": "Bring your documents",
+    "description": "Don't forget your passport, visa, and digital backups."
+  },
+  "health": {
+    "title": "Health insurance",
+    "description": "Get medical coverage before traveling, especially abroad."
+  },
+  "money": {
+    "title": "Money and cards",
+    "description": "Notify your bank and carry a mix of cash and cards."
+  },
+  "packing": {
+    "title": "Pack light",
+    "description": "Bring only the essentials and adapt to the weather."
+  }
+},
+"contact_greeting": "Contact Us",
+"contact": {
+  "title": "Contact Us",
+  "name": "Name",
+  "email": "Email",
+  "message": "Message",
+  "send": "Send",
+  "success": "Message sent successfully!",
+  "error": "An error occurred while sending the message.",
+  "subject": {
+    "inquiry": "Travel inquiry",
+    "collab": "Commercial collaboration",
+    "feedback": "Suggestions or feedback",
+    "other": "Other reason"
+  }
+  },
+  "seo": {
+  "homeTitle": "Unique travel experiences around the world - Travel App",
+  "homeDescription": "Discover amazing destinations, travel tips, and unforgettable experiences around the globe.",
+  "destinationsTitle": "Explore travel destinations - Travel App",
+  "destinationsDescription": "Find the best destinations for your travels with photos, maps, and helpful details.",
+  "contactTitle": "Contact - Travel App",
+  "contactDescription": "Have questions or suggestions? Get in touch and let us help you plan your next adventure.",
+  "tipsTitle": "Travel Tips - Travel App",
+  "tipsDescription": "Essential travel tips to travel smarter, save money, and enjoy every adventure.",
+  "blogTitle": "Travel Blog - Travel App",
+  "blogDescription": "Explore our travel articles, guides, and tips for your next adventures."
+},
+"blog": {
+  "menu": "Blog",
+  "title": "Travel Blog",
+  "articles": {
+    "norway": {
+      "title": "Travel Guide to Norway",
+      "summary": "Discover the best of Norway: fjords, mountains, and northern lights."
+      
+    },
+    "machu": {
+      "title": "Tips for Visiting Machu Picchu",
+      "summary": "Everything you need to know before traveling to Peru’s iconic site."
+      
+    }
+  }
+},
+"machu-picchu-tips": "Machu Picchu is an ancient Incan city located high in the Peruvian Andes. It is one of the modern wonders of the world, known for its stunning stone architecture and breathtaking natural surroundings.",
+"norway-travel-guide": "Norway is a Scandinavian country known for its stunning fjords, snowy mountains, and northern lights. It offers a unique blend of wild nature, modernity, and high quality of life. Explore Oslo, sail through the Geirangerfjord, and experience the midnight sun.",
+
+"footer": {
+  "copyright": "All rights reserved. Codeburst Studio.",
+  "publicity": "Looking for a website that looks great and ranks on Google? Contact us at: ",
+  "privacy": "Privacy Policy",
+  "terms": "Terms and Conditions"
+}
+
+
+
+}
+
