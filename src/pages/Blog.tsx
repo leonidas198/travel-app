@@ -10,8 +10,8 @@ export const Blog = () => {
   useMetaTags({
     titleKey: "seo.blogTitle",
     descriptionKey: "seo.blogDescription",
-    image: "https://tusitio.com/img/portada.jpg",
-    baseUrl: "https://tusitio.com",
+    image: "https://mejoresdestinos.com.ar/img/bariloche.jpg",
+    baseUrl: "https://mejoresdestinos.com.ar",
   });
 
   return (

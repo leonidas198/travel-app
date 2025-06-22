@@ -15,7 +15,7 @@ export const Footer = () => {
       <p className="mb-4 sm:mb-0 text-sm">
         {t('footer.publicity')}
         <a href="https://my-portfolio-jrop.vercel.app/" target="_blank" rel="noopener noreferrer">
-          https://my-portfolio-jrop.vercel.app/
+          Nuestra web
         </a>
       </p>
 

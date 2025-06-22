@@ -12,8 +12,8 @@ export const Contact = () => {
   useMetaTags({
     titleKey: "seo.contactTitle",
     descriptionKey: "seo.contactDescription",
-    image: "https://tusitio.com/img/portada.jpg",
-    baseUrl: "https://tusitio.com",
+    image: "https://mejoresdestinos.com.ar/img/bariloche.jpg",
+    baseUrl: "https://mejoresdestinos.com.ar",
   });
 
   const handleChange = (

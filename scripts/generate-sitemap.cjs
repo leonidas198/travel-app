@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const destinations = require("../src/data/destinations-data.cjs").destinations;
 
-const baseUrl = "https://tusitio.com";
+const baseUrl = "https://mejoresdestinos.com.ar";
 const locales = ["es", "en"];
 
 let urls = [

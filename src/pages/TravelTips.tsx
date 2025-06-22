@@ -11,8 +11,8 @@ export const TravelTips = () => {
   useMetaTags({
     titleKey: "seo.tipsTitle",
     descriptionKey: "seo.tipsDescription",
-    image: "https://tusitio.com/img/portada.jpg",
-    baseUrl: "https://tusitio.com",
+    image: "https://mejoresdestinos.com.ar/img/bariloche.jpg",
+    baseUrl: "https://mejoresdestinos.com.ar",
   });
 
   return (
