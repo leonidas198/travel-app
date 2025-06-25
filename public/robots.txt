@@ -1,4 +1,9 @@
 User-agent: *
-Allow: /
+Disallow: /author/
+Disallow: /tag/
+Disallow: /feed/
+Disallow: /wp-admin/
+Disallow: /?*
 
 Sitemap: https://mejoresdestinos.com.ar/sitemap.xml
+
