@@ -69,7 +69,7 @@
   },
   "seo": {
   "homeTitle": "Unique travel experiences around the world - Travel App",
-  "homeDescription": "Discover amazing destinations, travel tips, and unforgettable experiences around the globe.",
+  "homeDescription": "Discover top travel destinations, expert tips, exclusive articles, and more. Get inspired and plan your next adventure with us today!",
   "destinationsTitle": "Explore travel destinations - Travel App",
   "destinationsDescription": "Find the best destinations for your travels with photos, maps, and helpful details.",
   "contactTitle": "Contact - Travel App",
@@ -79,6 +79,11 @@
   "blogTitle": "Travel Blog - Travel App",
   "blogDescription": "Explore our travel articles, guides, and tips for your next adventures."
 },
+"home_explore_title": "Discover the Best Tourist Destinations",
+"home_explore_text": "Welcome to Mejores Destinos, your trusted guide to exploring the most amazing places in Argentina and around the world. Whether you're looking for nature, adventure, culture, or relaxation, here you'll find everything you need to plan your next trip.",
+"featured_destination_title": "Featured Destination of the Week: Bariloche",
+"featured_destination_text": "With its crystal-clear lakes and snowy mountains, Bariloche is perfect for those seeking adventure and unforgettable landscapes. Check out our full article with itineraries, prices, and exclusive photos.",
+
 "blog": {
   "menu": "Blog",
   "title": "Travel Blog",

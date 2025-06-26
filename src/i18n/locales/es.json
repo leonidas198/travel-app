@@ -69,8 +69,8 @@
   }
 }, 
 "seo": {
-  "homeTitle": "Viajes únicos alrededor del mundo - Travel App",
-  "homeDescription": "Descubre destinos turísticos increíbles, consejos de viaje y experiencias inolvidables.",
+  "homeTitle": "Mejores destinos turísticos para viajar por el mundo - Travel App",
+  "homeDescription": "Descubrí los mejores destinos turísticos, consejos de viaje, artículos exclusivos y mucho más. Inspirate y planificá tu próxima aventura con nosotros.",
   "destinationsTitle": "Explora destinos turísticos - Travel App",
   "destinationsDescription": "Encuentra los mejores destinos para tus viajes, con descripciones, imágenes y mapas.",
   "contactTitle": "Contacto - Travel App",
@@ -80,6 +80,10 @@
   "blogTitle": "Blog de viajes - Travel App",
   "blogDescription": "Explorá nuestros artículos de viaje, guías y consejos para tus próximas aventuras."
 },
+"home_explore_title": "Explorá los Mejores Destinos Turísticos",
+"home_explore_text": "Bienvenido a Mejores Destinos, tu guía confiable para descubrir los lugares más increíbles de Argentina y el mundo. Ya sea que busques naturaleza, aventura, cultura o relax, acá vas a encontrar todo lo que necesitás para planear tu próximo viaje.",
+"featured_destination_title": "Destino destacado de la semana: Bariloche",
+"featured_destination_text": "Con sus lagos cristalinos y montañas nevadas, Bariloche es ideal para quienes buscan aventura y paisajes inolvidables. Visitá nuestro artículo completo con itinerarios, precios y fotos exclusivas.",
 
 "blog": {
   "menu": "Blog",

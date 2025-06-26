@@ -10,8 +10,8 @@ export const Contact = () => {
   const [error, setError] = useState(false);
 
   useMetaTags({
-    titleKey: "seo.contactTitle",
-    descriptionKey: "seo.contactDescription",
+    titleKey: "seo.homeTitle",
+    descriptionKey: "seo.homeDescription",
     image: "https://mejoresdestinos.com.ar/img/bariloche.jpg",
     baseUrl: "https://mejoresdestinos.com.ar",
   });

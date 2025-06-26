@@ -7,13 +7,12 @@ import { useMetaTags } from "../hooks/useMetaTags";
 export const Blog = () => {
   const { t, i18n } = useTranslation();
 
-  useMetaTags({
+useMetaTags({
     titleKey: "seo.blogTitle",
     descriptionKey: "seo.blogDescription",
     image: "https://mejoresdestinos.com.ar/img/bariloche.jpg",
     baseUrl: "https://mejoresdestinos.com.ar",
   });
-
   return (
     <section className="container mx-auto px-4 py-8">
       <h1 className="text-3xl font-bold mb-6 text-center">{t("blog.title")}</h1>

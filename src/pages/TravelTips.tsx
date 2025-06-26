@@ -9,8 +9,8 @@ export const TravelTips = () => {
   const { t } = useTranslation();
 
   useMetaTags({
-    titleKey: "seo.tipsTitle",
-    descriptionKey: "seo.tipsDescription",
+    titleKey: "seo.homeTitle",
+    descriptionKey: "seo.homeDescription",
     image: "https://mejoresdestinos.com.ar/img/bariloche.jpg",
     baseUrl: "https://mejoresdestinos.com.ar",
   });
