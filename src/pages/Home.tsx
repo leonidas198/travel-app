@@ -48,7 +48,7 @@ export const Home = () => {
         <p className="text-base text-gray-700">
           {t(
             "featured_destination_text",
-            "Con sus lagos cristalinos y montañas nevadas, Bariloche es ideal para quienes buscan aventura y paisajes inolvidables. Visitá nuestro artículo completo con itinerarios, precios y fotos exclusivas."
+            "Con sus lagos cristalinos y montañas nevadas, Bariloche es ideal para quienes buscan aventura y paisajes inolvidables. Explorá consejos útiles y recomendaciones para tu destino."
           )}
         </p>
       </section>
