@@ -27,108 +27,19 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mejoresdestinos.com.ar/en/destinos/</loc>
+    <loc>https://mejoresdestinos.com.ar/en/destinations/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mejoresdestinos.com.ar/en/consejos/</loc>
+    <loc>https://mejoresdestinos.com.ar/en/travelTips/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mejoresdestinos.com.ar/en/contacto/</loc>
+    <loc>https://mejoresdestinos.com.ar/en/contact/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/es/destinos/paris/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/en/destinos/paris/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/es/destinos/machu-picchu/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/en/destinos/machu-picchu/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/es/destinos/alberobello/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/en/destinos/alberobello/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/es/destinos/bariloche/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/en/destinos/bariloche/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/es/destinos/el-bolson/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/en/destinos/el-bolson/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/es/destinos/amsterdam/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/en/destinos/amsterdam/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/es/destinos/noruega/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/en/destinos/noruega/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/es/destinos/paises-bajos/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/en/destinos/paises-bajos/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/es/destinos/tokyo/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://mejoresdestinos.com.ar/en/destinos/tokyo/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  
 </urlset>
