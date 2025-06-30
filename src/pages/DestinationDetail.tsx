@@ -1,6 +1,7 @@
 
 import { useParams, Navigate } from 'react-router-dom';
-import { destinations } from '../data/destinations';
+import { destinations } from '../data/destination';
+
 
 export const DestinationDetail = () => {
   const { slug } = useParams();
@@ -17,8 +18,8 @@ export const DestinationDetail = () => {
 
   return (
     <div className="destination-detail p-4">
-      <h1 className="text-3xl font-bold mb-4">{destination.nameKey}</h1>
-      <p>{destination.descriptionKey}</p>
+      <h1 className="text-3xl font-bold mb-4">{destination.name}</h1>
+      <p>{destination.description}</p>
       {/* Aquí puedes agregar más detalles, imágenes, mapas, etc */}
     </div>
   );
